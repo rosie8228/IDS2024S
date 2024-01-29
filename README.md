@@ -8,4 +8,5 @@
 **University:** The University of Texas at Arlington  
 **Level:**  Junior (3rd year)  
 **Position Title:** Student  
-Course Webpage: www.cdslab.org
+**Course Webpage:** [IDS2024S](www.cdslab.org)  
+**Photo:** ![A photo of Rosie]()
