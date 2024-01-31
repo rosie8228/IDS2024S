@@ -10,7 +10,7 @@
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org)  
 **Photo:**  
-![A photo of Rosie](https://www.google.com/search?q=pou+crying+plush&tbm=isch&ved=2ahUKEwift_zx3IiEAxUJzskDHVHmBAQQ2-cCegQIABAA&oq=pou+crying+plush&gs_lcp=CgNpbWcQAzIHCAAQgAQQGFDdBViICWC1EGgAcAB4AIABhgGIAecBkgEDMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Y9C6Zd_5EYmcp84P0cyTIA&bih=730&biw=1536&rlz=1C1CHBF_enUS910US910#imgrc=vmqf4RYXOjMMrM)  
+![A photo of Rosie]( A photo of Me (Rosie) )  
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:  
 
