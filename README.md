@@ -9,4 +9,4 @@
 **Level:**  Junior (3rd year)  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org)  
-**Photo:** ![A photo of Rosie]()
+**Photo:** ![A photo of Rosie](A picture of Me (Rosie))
