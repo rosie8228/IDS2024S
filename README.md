@@ -10,7 +10,7 @@
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org)  
 **Photo:**  
-![A photo of Rosie](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnationalautismresources.com%2Fblog%2Fwhat-is-the-yippeetbh-creature%2F&psig=AOvVaw0MTUowJVMAb-IkrQUTpJVC&ust=1706833351592000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjexO_viIQDFQAAAAAdAAAAABAE)
+![A photo of Rosie](https://lh4.googleusercontent.com/-K7jvRKlNIJsgPxiouSy6jimwEU8LSStZpPurx6Z3UCIUOybtX6QQLiLMo2Nwtnn_a1gCSCjH8g28tTmHXjrTD5Hga3TNYPJT6SZoaOpoShr8zvWPeBG_V32B6irCZaz_fSNxU3xMhYipRLCpnoPIVs)  
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:  
 
