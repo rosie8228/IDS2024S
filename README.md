@@ -20,3 +20,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 > I have not failed. I have just found 1000 ways that won't work.  
 > Thomas Edison  
+
+For questions and troubleshooting, contact:  
+Rosie Guzman  
+rosie.guzman@mavs.uta.edu  
