@@ -23,4 +23,6 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 For questions and troubleshooting, contact:  
 Rosie Guzman  
-rosie.guzman@mavs.uta.edu  
+rosie.guzman@mavs.uta.edu
+
+This is a message from laptop command line.
