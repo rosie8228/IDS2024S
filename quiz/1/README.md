@@ -46,5 +46,11 @@ What does .md stand for?Why we do prefer to use .md extension for README files o
 22. What is the Git command to initialize an empty git project on your local system?  
     git init  
 24. What do . and .. mean in directory path names (For example, in ./README.md and ../README.md?  
-    the (.) is used when naming files whereas the (..) is used to link file to chosen name.  
+    the (.) is used when naming files whereas the (..) is used to link file to chosen name.
+
+Extra Credit
+What is the difference between a relative and an absolute file path? Which one is more appropriate to use in your GitHub projects? Why?  
+
+Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)   
+git help < command name >  
 
