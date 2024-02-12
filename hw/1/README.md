@@ -7,3 +7,5 @@ c. git add --all  Add files to the staging area.
 d. git commit -m"latest build"  Commit the staged files to the local repository.  
 e. git push --all  Push all commits from local repository to remote repository.  
 5. [Here is the HW Folder](../../hw)
+   [Here is the Quiz Folder](../../quiz)
+   [Here is the Exam Folder](../../exam)
