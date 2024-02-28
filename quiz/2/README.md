@@ -20,10 +20,10 @@ d. imperative
 e. declarative  
 14.	What class of human knowledge algorithms belong to?  
 15.	ENIAC  
-16.	Name a computer programming language whose evolution and popularity is tightly coupled with the field of Bioinformatics.  
-17.	Name a computer programming language whose evolution and popularity is tightly coupled with the field of Numerical Computing, Atmospheric Science, Plasma Sciences, and Aerospace Engineering, among others.  
+16.	SQL.    
+17.	JavaScript.    
 18.	Name the five major components of a modern digital computer.  
-19.	Name an example of fixed-program computer.  
+19.	ATM.
 20.	Fortran, COBOL, B, C++, Java, Python.  
 21.	(A) What is the closest human-readable programming language to machine code (i.e., binary numbers)?  
 (B) Does it need interpretation in order to become machine-comprehensible?  
@@ -33,6 +33,5 @@ e. declarative
 25.	B  
 26. C with Classes
 27.	ABC for Python, Fortran for MATLAB
-
-27.	Name a programming language ancestor of C++ (Hint: Use the diagrams from our lecture notes). C with Classes
-28.	Name a programming language ancestor of MATLAB and a programming language ancestor of Python (Hint: Use the diagrams from our lecture notes). ABC for Python, Fortran for MATLAB
+28. C with Classes
+29. ABC for Python, Fortran for MATLAB
