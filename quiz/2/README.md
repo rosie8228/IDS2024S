@@ -31,7 +31,5 @@ e. declarative
 23.	(A) COBOL (B) Fortran and C second gen, C++ and MATLAB are third gen, Python and R are fourth gen.  
 24.	C(1970s), C++(1980s), MATLAB(1970s), Python(1980s)  
 25.	B  
-26. C with Classes
-27.	ABC for Python, Fortran for MATLAB
-28. C with Classes
-29. ABC for Python, Fortran for MATLAB
+26. C with Classes  
+27.	ABC for Python, Fortran for MATLAB  
