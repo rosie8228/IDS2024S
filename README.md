@@ -1,4 +1,4 @@
-##These are my answer to the homework 2 questions.
+These are my answer to the homework 2 questions.
 
 
 2. Electronic Numerical Integrator and Computer.
