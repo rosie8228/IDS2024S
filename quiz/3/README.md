@@ -8,7 +8,7 @@ pyramid: prediction, validation, and calibration.
 Expirement, Theory, and Computational Model.  
 3. Describe three different major applications of the third pillar of science with respect to the first two.  
 (Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)  
-
+Machine learning, ...
 4. Name the two different categories of logical reasoning and provide and example of each class.  
 Plausible and Deductive.  
 5. Is logical implication the same as physical causation? Explain with an example.  
