@@ -10,16 +10,14 @@ Deductive and Plausible
 It is cloudy because it is raining , the physical causation is the clouds themselves.  
 5. Policeman, jewelry, and burglar.  
 If A and B then C.  
-6. Logical Implication.  
-
-7. Logical product denial.  
-
-8. Logic functions with 1 input.  
-
-9. Logic functions with 2 input.  
-
-10. Logic functions in terms of logic functions.  
-
-11. The fundamental logical operators.  
-
-12. a.    b.      c.    
+![IMG_0239](https://github.com/rosie8228/IDS2024S/assets/157654632/d966062a-bcc3-4354-a9a8-319c432dc3f4)  
+![IMG_0243](https://github.com/rosie8228/IDS2024S/assets/157654632/6e510565-0b18-4ff4-9b86-95d4ca16dff3)
+![IMG_0244](https://github.com/rosie8228/IDS2024S/assets/157654632/546a0f12-ed47-4050-960e-9477b00adfed)
+![IMG_0245](https://github.com/rosie8228/IDS2024S/assets/157654632/3d1c6871-050c-41b9-87e4-a2e68abb2f96)
+![IMG_0246](https://github.com/rosie8228/IDS2024S/assets/157654632/a9fb8bc7-be4d-4a13-9e03-f40dedb62d0c)  
+Question 12:  
+a. Bit is tiniest unit of information.  
+b. Because there are only 2 states being represented, them being 0 and 1.  
+1. 2 possibilities  
+2. 4 possibilities  
+3. 8 possibilities  
