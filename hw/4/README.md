@@ -12,7 +12,8 @@
 4.
    ![IMG_0262](https://github.com/rosie8228/IDS2024S/assets/157654632/2420bfd2-38af-45a5-bc94-dd37c6f4c5b8)  
 
-5. d
+5. ![IMG_0264](https://github.com/rosie8228/IDS2024S/assets/157654632/3f614812-0bc0-47e5-935e-4f8bbc8b928f)  
+
 6. d
 7. (I) Degrees of plausibility are represented by real numbers.  
    (II) Qualitative correspondence with common sense.  
