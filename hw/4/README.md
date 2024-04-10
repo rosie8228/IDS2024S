@@ -6,4 +6,6 @@
 4. d
 5. d
 6. d
-7. d  
+7. (I) Degrees of plausibility are represented by real numbers.  
+   (II) Qualitative correspondence with common sense.  
+   (III) Consistency.  
