@@ -38,5 +38,5 @@ part4: San Diego.
 15. n/a  
 16. CARTO Earth color scale.  
 17. The bar graph should not be facing vertically to represent the data, it need to be switched horizontally as it can be more readable that way.  
-18. n/a  
+18. [Final18.xlsx](https://github.com/rosie8228/IDS2024S/files/15204960/Final18.xlsx)  
 19. I think the temperature will increase by they year of 2050 since there is so much potential pollution that could happen in the future.  
