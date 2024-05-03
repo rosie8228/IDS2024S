@@ -28,15 +28,13 @@ Polar coordinates are best representing a data set that is periodic where the gr
 - Diverging color scale: to highlight extreme and midpoint, good for data analyzing and comparison  
 12. What is wrong with the following visualization?  
     Age cannot start before 0.
-13. The bottom colors with purple to green tones because it is inclusive to color blind people as opposed to the bottom one that would just look all brown to colorblind people.
-14.d
-15.d
-16.d
-17.d
+13. The bottom colors with purple to green tones because it is inclusive to color blind people as opposed to the bottom one that would just look all brown to colorblind people.  
+14. N/A 
+15. N/A  
+16. N/A    
+17. N/A   
 18. Bayesian, frequentist, plausibility, classical.
 
-Extra credit
+Extra credit:  
 1st one: Horse and Frog.  
-2nd one: 
-  
-
+2nd one: ![IMG_0298](https://github.com/rosie8228/IDS2024S/assets/157654632/00951721-d544-4a5f-bc2f-a0a146b0fc88)  
