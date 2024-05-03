@@ -24,9 +24,19 @@ Polar coordinates are best representing a data set that is periodic where the gr
 It tends to look more confusing as to what the data is trying to show, such as when small data looks bigger based on what perspective you view in.  
 10. Recall our class discussions on the kinds of data, for example, numerical vs. categorical.  
 Describe an example dataset that could be classified as either numerical or categorical, depending on how it is represented.  
-
+n/a.  
 11. Is color a categorical/unordered or quantitative/ordered aesthetics?  
-    
+    Color is unordered.  
 12. Which one of the following three coordinates are valid and can be used to represent data?  
 All 3 graphs are valid to represent data, however, the information will be hard to read as it gets smaller for the blue graph.  
 13. The bottom colors with purple to green tones because it is inclusive to color blind people as opposed to the bottom one that would just look all brown to colorblind people.  
+14. Consider the following plot displaying the temperatures of a number of US cities.
+part1: San Diego.  
+part2: Death Valley.  
+part3: Chicago.  
+part4: San Diego.  
+15. n/a  
+16. CARTO Earth color scale.  
+17. The bar graph should not be facing vertically to represent the data, it need to be switched horizontally as it can be more readable that way.  
+18. n/a  
+19. I think the temperature will increase by they year of 2050 since there is so much potential pollution that could happen in the future.  
